@@ -1,0 +1,16 @@
+<GameConfig
+  netMode="Server"
+  windowFullscreen="false"
+  windowSize="1200,600"
+  windowPosition="10,30"
+  windowTitle="Vaporum Server"
+/>
+
+<!--
+  windowSize="1250,1300"
+  windowPosition="15,50"
+  windowSize="900,1100"
+  windowPosition="20,50"
+  windowSize="750,800"
+  windowPosition="10,30"
+-->

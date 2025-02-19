@@ -1,0 +1,7 @@
+<Material name="Moon" 
+		  shader="Data/Shaders/EverythingShader" 
+		  vertexType="Vertex_PCUTBN" 
+		  diffuseTexture="Data/Images/Moon/2K/Moon_Diffuse.png" 
+		  normalTexture="Data/Images/Moon/2K/Moon_Normal.png" 
+		  specGlossEmitTexture="Data/Images/Moon/2K/Moon_SpecGlossEmit.png" 
+		  color="255,255,255,255"/>

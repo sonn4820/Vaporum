@@ -1,0 +1,7 @@
+<Material name="Unit" 
+		  shader="Data/Shaders/Diffuse" 
+		  vertexType="Vertex_PCUTBN" 
+		  diffuseTexture="" 
+		  normalTexture="" 
+		  specGlossEmitTexture="" 
+		  color="255,255,255,255"/>
